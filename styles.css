@@ -1,5 +1,17 @@
 body {
     margin: 10;
+<<<<<<< HEAD
     background: lightblue;
     text-align: center;
+=======
+    background: rgb(192, 228, 240);
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title {
+    font-size: 40 px;
+}
+.para{
+    font-size: 20 px;
+>>>>>>> styling
 }
